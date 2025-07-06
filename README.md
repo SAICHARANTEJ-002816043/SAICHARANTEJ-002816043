@@ -48,7 +48,6 @@ I'm a passionate **Data Scientist** with over **3 years of experience** building
 
 🧾 Extracts KPIs from financial PDFs  
 📉 Reduced analyst review time by 70%  
-📷 ![FinLens Preview](https://raw.githubusercontent.com/SAICHARANTEJ-002816043/SAICHARANTEJ-002816043/main/finlens_preview.png)
 
 ---
 
@@ -57,7 +56,6 @@ I'm a passionate **Data Scientist** with over **3 years of experience** building
 
 🚨 Predicts credit default with 76% AUC  
 🔍 Transparent decisioning via SHAP plots  
-📷 ![CrediPulse Preview](https://raw.githubusercontent.com/SAICHARANTEJ-002816043/SAICHARANTEJ-002816043/main/credipulse_preview.png)
 
 ---
 
