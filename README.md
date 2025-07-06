@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Saicharantej Katteboina</h1>
+<p align="center">
+  <em>Data Scientist | AI Engineer | MLOps Enthusiast</em>
+</p>
 
-<!--
-**SAICHARANTEJ-002816043/SAICHARANTEJ-002816043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:charantej9731@gmail.com"><img src="https://img.shields.io/badge/Email-charantej9731@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/saicharantejk"><img src="https://img.shields.io/badge/LinkedIn-Saicharantej-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/SAICHARANTEJ-002816043"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/SAICHARANTEJ-002816043/SAICHARANTEJ-002816043/main/banner.gif" width="100%" alt="Welcome Banner">
+
+### 🚀 About Me
+
+I'm a passionate **Data Scientist** with over **3 years of experience** building ML & AI-driven solutions across automotive, consulting, and tech domains. I specialize in:
+
+- **Predictive modeling** with LSTM, CNN, XGBoost  
+- **NLP models** like BERT and LangChain for Generative AI  
+- **MLOps pipelines** using AWS, Docker, FastAPI  
+- Building real-time, scalable, and explainable ML systems  
+
+---
+
+### 💼 Professional Experience
+
+- 🔧 **Data Scientist @ General Motors**
+  - Built LSTM + CNN model for failure prediction → 📉 breakdowns by 28%
+  - Real-time FastAPI APIs with <300ms latency via AWS Lambda
+  - Integrated SHAP/LIME for explainability + compliance
+
+- 🧠 **Data Science Intern @ Terralogic**
+  - NLP ticket classification using BERT (91% F1-score)
+  - Dockerized models and scaled EC2 training pipelines
+
+- 📊 **Data Analyst @ Tiger Analytics**
+  - Power BI dashboards for 150+ retail stores
+  - Built loyalty models improving targeting by 22%
+
+---
+
+### 🧠 Featured Projects
+
+#### 📈 FinLens – LLM-powered Credit Summarizer  
+> _LangChain + Streamlit + GPT-3.5_
+
+🧾 Extracts KPIs from financial PDFs  
+📉 Reduced analyst review time by 70%  
+📷 ![FinLens Preview](https://raw.githubusercontent.com/SAICHARANTEJ-002816043/SAICHARANTEJ-002816043/main/finlens_preview.png)
+
+---
+
+#### 🧮 CrediPulse – Loan Default Predictor  
+> _XGBoost + SHAP + Flask API_
+
+🚨 Predicts credit default with 76% AUC  
+🔍 Transparent decisioning via SHAP plots  
+📷 ![CrediPulse Preview](https://raw.githubusercontent.com/SAICHARANTEJ-002816043/SAICHARANTEJ-002816043/main/credipulse_preview.png)
+
+---
+
+### 🛠️ Tech Stack
+
+```python
+Languages     : Python, SQL, Java  
+ML Libraries  : Scikit-learn, TensorFlow, PyTorch, XGBoost  
+Visualization : Power BI, Tableau, Matplotlib, Plotly  
+NLP & GenAI   : BERT, TF-IDF, NLTK, LangChain, GPT  
+Cloud & DevOps: AWS (Lambda, EC2, S3), FastAPI, Docker, CI/CD  
+Platforms     : PySpark, MongoDB, Hadoop, Looker  
