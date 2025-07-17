@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ksaicharan170@gmail.com"><img src="https://img.shields.io/badge/Email-charantej9731@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="mailto:ksaicharan170@gmail.com"><img src="https://img.shields.io/badge/Email-ksaicharan170@gmail.com-red?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/saicharantejk"><img src="https://img.shields.io/badge/LinkedIn-Saicharantej-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/SAICHARANTEJ-002816043"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github" /></a>
 </p>
